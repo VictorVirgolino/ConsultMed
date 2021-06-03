@@ -1,0 +1,3 @@
+Requer Python
+Firebirdsql
+csv
